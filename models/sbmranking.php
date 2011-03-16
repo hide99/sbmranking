@@ -1,0 +1,5 @@
+<?
+	class SbmRanking extends AppModel {
+	}
+
+?>
